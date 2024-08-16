@@ -1,0 +1,1 @@
+Tugas 1 adalah tentang membuat repositori online di github, folder lokal diinisialisasi git dan di push ke repo github
